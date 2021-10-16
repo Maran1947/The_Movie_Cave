@@ -21,9 +21,9 @@ This is a cave of movies where you can find the top latest as well as your favor
 - TMDB API 
 
 # Screenshots
-![Home Screen](./src/img/img_1.png)<br/>
-![Home Screen](./src/img/img_2.png)<br/>
-![Trailer](./src/img/img_3.png)<br/>
-![Search Screen](./src/img/img_4.png)<br/>
-![Search Screen](./src/img/img_5.png)<br/>
-![Movie Box](./src/img/img_6.png)
+![Home Screen](./src/img/screen_1.png)<br/>
+![Home Screen](./src/img/screen_2.png)<br/>
+![Trailer](./src/img/screen_3.png)<br/>
+![Search Screen](./src/img/screen_4.png)<br/>
+![Search Screen](./src/img/screen_5.png)<br/>
+![Movie Box](./src/img/screen_6.png)
