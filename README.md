@@ -3,11 +3,12 @@ This is a cave of movies where you can find the top latest as well as your favor
 
 # 🚛 Features
 - 🎞 Watch Movie Trailers
-- 🔍 Search Your Favourite Movies
+- 🔍Search Your Favourite Movies
 - 🖼 Responsive UI
 
 # 🏗 Built with
 - React.js
+- TMDB API 
 
 ### 🍔 Things Used
 - ♟ useState 
@@ -16,9 +17,6 @@ This is a cave of movies where you can find the top latest as well as your favor
 - ♟ react-youtube
 - ♟ react-router-dom
 - ♟ axios
-
-### API Used
-- TMDB API 
 
 # 📷 Screenshots
 ![screen_1](https://github.com/Maran1947/The_Movie_Cave/assets/69248165/91b5d77f-d2b6-4700-8764-0c088ef1d838)
