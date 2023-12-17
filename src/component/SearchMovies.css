@@ -92,6 +92,7 @@ button:hover {
     display: flex;
     justify-content: space-between;
 }
+
 .dialog_status h2 {
     font-size: 14px;
     margin-top: 8px;
@@ -104,4 +105,15 @@ button:hover {
     color: rgb(255, 254, 254);
     background-color: #111;
     padding: 2px 8px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .search_movie {
+        padding-top: 100px;
+    }
+
+    form {
+        width: 100%;
+    }
 }
